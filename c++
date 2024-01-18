@@ -5,6 +5,7 @@ using namespace std;
 
 cout << "1";
 cout << "2";
+cout << "3";
 
 int sum(int num1, int num2, char operation) {
 	if (operation == '+') {
