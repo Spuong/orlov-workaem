@@ -9,6 +9,8 @@ cout << "3";
 cout << "4";
 cout << "5";
 
+cout << "leonid";
+
 int sum(int num1, int num2, char operation) {
 	if (operation == '+') {
 		return num1 + num2;
